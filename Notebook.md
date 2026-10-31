@@ -1,13 +1,34 @@
-# Semana 02: [Estudar observações do Orientador (UA)]
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+## Semana 01: [Apresentar o projeto e contextualizar o Orientador]
+**Período:** 14/09/2026 – 18/09/2026
+
+### Trabalho realizado:
+* Organizar e efetuar o levantamento do estado atual do projeto
+* Reunião de contextualização com o orientador (Prof. Mario Antunes)
+
+### Próximos Passos:
+* Estruturar e investigar as ideias partilhadas com o Orientador (UA) (*)
+* Delinear artigos de leitura sobre o caso de estudo do projeto
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+## Semana 02: [Estudar observações do Orientador (UA)]
 **Período:** 21/09/2026 – 25/09/2026
 
-## Trabalho planeado:
+### Trabalho realizado:
 - Análise dos objetivos das Frameworks e das Métricas partilhadas pelo Orientador (UA)
+- Objetivos e diferenças do que já está utilizado relativamente às novas Frameworks e Métricas (*)
 
-## Trabalho diário realizado:
-- **Seg (21/09) - Sex (25/09):** Objetivos e diferenças do que já está utilizado relativamente às novas Frameworks e Métricas (*)
-
----
+> ---
 
 #### (*) *Ideias e notas partilhadas pelo Orientador (UA) na reunião de dia 15/09:*
 - ### Frameworks:
@@ -126,4 +147,132 @@
 ---
 
 ## Próximos Passos:
+- Perceber a necessidade/possibilidade de inserção do estudado acima
 - Identificar artigos de estudo para leitura e análise
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 03: [Levantamento de Artigos relevantes com tema do projeto]
+**Período:** 28/09/2026 – 02/10/2026
+
+## Trabalho realizado:
+- Escolha dos Artigos que se enquadram com o tema do projeto
+- Avalição dos resultados e dos estudos já existentes
+
+## Próximos Passos:
+- Recolha das análises e notas aos artigos lidos.
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 04: [Recolha dos resultados dos artigos lidos & Estado atual do projeto]
+**Período:** 05/10/2026 – 09/10/2026
+
+## Trabalho realizado:
+- Retirar notas importantes das leituras e análises efetuadas aos artigos
+- Recolha dos resultados dos artigos lidos
+
+## Próximos Passos:
+- Começar o estágio
+- Perceber o estado atual do projeto e o que já foi desenvolvido
+
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 05: [Início do estágio]
+**Período:** 12/10/2026 – 16/10/2026
+
+## Trabalho realizado:
+- Inicio do estágio
+- Apresentação da equipa
+- Introdução à dinâmica do estágio e ao projeto
+- Contextualização do ambiente logistico e da cadeia de abastecimento
+- Estado atual do projeto
+
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 06: [Recolha dos resultados dos artigos lidos & Estado atual do projeto]
+**Período:** 19/10/2026 – 23/10/2026
+
+## Trabalho realizado:
+- Estudo de variáveis importantes para inserir no modelo
+- Algoritmos testados -> Random Forest
+- Tratamento e normalização de dados
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 07: [Preparação Sprint 2; Continuação do desenvolvimento e testes; Migrações e tratamento de dados]
+**Período:** 26/10/2026 – 30/10/2026
+
+## Trabalho realizado:
+- Levantamento do estado de arte - preparação do Sprint2
+- Outros algoritmos testados - XGB e LGBM
+- Continuação do tratamento de dados e feature engineering
+- Migração de BO's - continuação do processo à medida que vão existindo updates
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 08: [Testar novos tipos de variáveis; Clustering suppliers per plant; Migrações de BO's]
+**Período:** 02/11/2026 – 06/11/2026
+
+## Trabalho realizado:
+- 
+- 
+- 
+- 
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
