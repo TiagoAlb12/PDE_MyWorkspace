@@ -1,4 +1,4 @@
-# Organização e Escrita de uma Dissertação - 29/09/2026 - Workshop01
+# Organização e Escrita de uma Dissertação - 29/09/2026
 
 Este primeiro workshop foi bastante útil para se preceber de que forma é que podemos começar a pensar na organização e na consequente escrita da dissertação.
 De seguida, deixo todas as minhas notas retiradas durante a sessão.

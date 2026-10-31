@@ -1,4 +1,4 @@
-## Participação na Auditoria Técnica de Projetos de Inovação e Automação da Bosch Car Multimedia
+## Participação na Auditoria Técnica de Projetos de Inovação e Automação da Bosch Car Multimedia - 12/10/2026 e 13/10/2026
 
 1. Contexto e Enquadramento Institucional
 

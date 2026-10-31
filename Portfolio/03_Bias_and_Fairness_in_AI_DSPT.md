@@ -1,4 +1,4 @@
-## Formação: *Bias and Fairness in AI: An Overview* (Data Science Portugal)
+## Formação: *Bias and Fairness in AI: An Overview* (Data Science Portugal) - 27/10/2026
 
 ### 1. Contexto e Enquadramento da Formação
 Participei na sessão técnica e formativa *"Bias and Fairness in AI: An Overview"*, divulgada e promovida pelo DETI (Departamento de Electrónica, Telecomunicações e Informática) em colaboração com a comunidade Data Science Portugal (DSPT). O evento decorreu no Anfiteatro V do departamento e foi conduzido por Sérgio Jesus, investigador e especialista da Feedzai, empresa de referência no desenvolvimento de inteligência artificial aplicada à segurança financeira e deteção de fraude.
