@@ -260,14 +260,71 @@
 
 <div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
 
-# Semana 08: [Testar novos tipos de variáveis; Clustering suppliers per plant; Migrações de BO's]
+# Semana 08: [Testar novos tipos de variáveis; Clustering suppliers; Migrações de BO's]
 **Período:** 02/11/2026 – 06/11/2026
 
 ## Trabalho realizado:
-- 
-- 
-- 
-- 
+- Novos tipos de dados sondados - Custom data, meio de transporte, client demand volatility
+- Clustering de supplier (Relação supplier x plant)
+- Migração dos BO's (reuniões para alinhar detalhes das nossas tabelas do DALI comparativamente com o objetivo dos BO's existentes)
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 09: [Migrações de BO's; Clustering suppliers; Clustering supplier per plant]
+**Período:** 09/11/2026 – 13/11/2026
+
+## Trabalho realizado:
+- Clustering de supplier e Clustering de supplier per plant (testados novamente vários algoritmos de clustering - DBSCAN/K Means/Gaussian Mixture/Hierarchical (Ward))
+- Migração dos BO's
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 10: [Material Clustering; Migrações de BO's]
+**Período:** 16/11/2026 – 20/11/2026
+
+## Trabalho realizado:
+- Identificar materiais criticos
+- Avaliar que tipo de dados é que temos nos BO's e/ou nas tabelas do DALI que nos permitam filtrar por tipos/famílias/grupos de materiais
+    - Confirmar a percentagem de coverage para os materiais usados e presentes no nosso dataset, para perceber efetivamente se ganhamos a adicionar esse tipo de variáveis 
+- Clustering de materiais
+- Migração dos BO's
+- Preparação do Sprint III (Arquitetura)
+
+</div>
+
+> ---
+
+<div align="center">❖ ── ✦ ── ❖</div>
+
+> ---
+
+<div style="border: 1px solid #444; border-radius: 8px; padding: 18px; margin-bottom: 24px; background-color: #1e1e1e;">
+
+# Semana 11: [Comparação do Material Clustering e do Supplier Clustering; Retreinar o melhor modelo com todos os dados no final; Migrações de BO's]
+**Período:** 23/11/2026 – 27/11/2026
+
+## Trabalho a realizar:
+- Comparar os resultados do material clustering com os resultados do supplier clustering
+    - Para poder perceber se estão relacionados e se trabalhar com dois clusterings diferentes é vantajoso ou nao
+- Retreinar o modelo com melhor performance (com melhor Diabo_Score, na regressão, e com boa relação com o F1 Score na classificação) com todos os dados disponíveis (append val_df with train_df)
+- Migração dos BO's
+- Sprint III (Arquitetura)
 
 </div>
 
